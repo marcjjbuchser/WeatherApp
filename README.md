@@ -43,4 +43,56 @@ A beautiful and modern iOS weather application built with SwiftUI that follows A
 
 ## Installation
 
-1. Clone the repository: 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/WeatherApp.git
+   ```
+
+2. Open WeatherApp.xcodeproj in Xcode:
+   ```bash
+   cd WeatherApp
+   open WeatherApp.xcodeproj
+   ```
+
+3. Build and run the project:
+   - Select your target device or simulator
+   - Press ⌘R or click the Play button
+
+## Project Structure
+
+```plaintext
+WeatherApp/
+├── App/
+│   └── WeatherAppApp.swift
+├── Models/
+│   └── WeatherModel.swift
+├── Views/
+│   ├── ContentView.swift
+│   ├── WeatherAnimationView.swift
+│   ├── CurrentWeatherView.swift
+│   ├── HourlyForecastView.swift
+│   ├── CitySearchView.swift
+│   └── WeatherIcon.swift
+├── ViewModels/
+│   └── WeatherViewModel.swift
+├── Services/
+│   ├── WeatherService.swift
+│   ├── LocationManager.swift
+│   └── URLSessionProtocol.swift
+├── Resources/
+│   └── Assets.xcassets/
+│       ├── AppIcon.appiconset/
+│       └── AccentColor.colorset/
+├── Preview Content/
+│   └── Preview Assets.xcassets/
+├── WeatherAppTests/
+│   ├── WeatherServiceTests.swift
+│   └── WeatherViewModelTests.swift
+├── WeatherAppUITests/
+│   ├── WeatherAppUITests.swift
+│   └── WeatherAppUITestsLaunchTests.swift
+├── WeatherApp.xcodeproj/
+│   ├── project.pbxproj
+│   └── project.xcworkspace/
+├── Info.plist
+└── README.md
