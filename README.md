@@ -1,6 +1,6 @@
 # Weather App
 
-A beautiful and modern iOS weather application built with SwiftUI that follows Apple's design guidelines and uses the latest iOS development practices.
+A beautiful and modern iOS weather application built with SwiftUI that follows Apple's design guidelines and uses the latest iOS development practices. Created with [Cursor](https://cursor.sh/) and Claude 3.5.
 
 ## Features
 
