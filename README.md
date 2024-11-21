@@ -15,10 +15,7 @@ A beautiful and modern iOS weather application built with SwiftUI that follows A
 ## Screenshots
 
 
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-21 at 12 32 50](https://github.com/user-attachments/assets/c70e0a96-a028-43a1-b161-4afd93c73765)
-
-
-![Simulator Screenshot - iPhone 16 Pro Max - 2024-11-21 at 12 33 58](https://github.com/user-attachments/assets/9aa89fe9-40fc-47c0-b0a6-9fab0e51adfa)
+<img src="https://github.com/user-attachments/assets/c70e0a96-a028-43a1-b161-4afd93c73765" width=200>
 
 
 ## Technical Details
