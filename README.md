@@ -14,7 +14,9 @@ A beautiful and modern iOS weather application built with SwiftUI that follows A
 
 ## Screenshots
 
-[Add your app screenshots here]
+
+<img src="https://github.com/user-attachments/assets/c70e0a96-a028-43a1-b161-4afd93c73765" width=200>
+
 
 ## Technical Details
 
